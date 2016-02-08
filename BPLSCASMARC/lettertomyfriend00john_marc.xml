@@ -1,0 +1,108 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01766ntm a2200337 a 4500</leader>
+  <controlfield tag="001">4494853</controlfield>
+  <controlfield tag="003">Pol</controlfield>
+  <controlfield tag="005">20140721153804.0</controlfield>
+  <controlfield tag="008">140523s1863    vtu           000 i eng d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">MS A.1.2 v.32, p.8</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Johnson, Leonard.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] My friend Mr. Garrison </subfield>
+    <subfield code="h">[manuscript]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Peacham, [Vt.],</subfield>
+    <subfield code="c">Jan[uary] 25, 1863.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (3p.)</subfield>
+    <subfield code="c"> 11.7 x 19.1 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Title devised by cataloger.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Leonard Johnson writes to William Lloyd Garrison recalling the season which Garrison and Oliver Johnson passed at their family home the &quot;richest treat&quot; of his life. Johnson sends payment to Garrison for his subscription to the Liberator, informing Garrison that he intends to subscribe to the Liberator for the rest of his life. Johnson inquires of Garrison how he fared in his meeting with Ex Governor Hall.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="4">
+    <subfield code="a">Johnson, Leonard,</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Johnson, Oliver,</subfield>
+    <subfield code="d">1809-1889.</subfield>
+  </datafield>
+  <datafield tag="630" ind1="2" ind2="0">
+    <subfield code="a">Liberator (Boston, Mass. : 1831)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="730" ind1="0" ind2=" ">
+    <subfield code="a">Boston Public Library (Rare Books Department) William Lloyd Garrison Correspondence (1823-1879) </subfield>
+    <subfield code="5"> MB</subfield>
+  </datafield>
+  <datafield tag="989" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">BPL - Special Collections </subfield>
+    <subfield code="b">Manuscript - In Library Use Only</subfield>
+    <subfield code="h">MS A.1.2 v.32, p.8</subfield>
+    <subfield code="k">RARE BKS</subfield>
+    <subfield code="o">9</subfield>
+    <subfield code="p">39999089663577</subfield>
+    <subfield code="r">In</subfield>
+    <subfield code="w">Manuscript</subfield>
+    <subfield code="y">1</subfield>
+    <subfield code="7">False</subfield>
+    <subfield code="9">0</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="b">MS A.1.2 v.32, p.8</subfield>
+    <subfield code="c">0</subfield>
+    <subfield code="g">1</subfield>
+    <subfield code="h">1</subfield>
+    <subfield code="i">1</subfield>
+    <subfield code="j">1</subfield>
+    <subfield code="k">0</subfield>
+    <subfield code="x">MS A.1.2 v.32, p.8</subfield>
+    <subfield code="z">0</subfield>
+    <subfield code="!">2</subfield>
+  </datafield>
+</record>

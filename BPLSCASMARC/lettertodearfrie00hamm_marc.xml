@@ -1,0 +1,98 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01202ntm a22003017a 4500</leader>
+  <controlfield tag="001">3266974</controlfield>
+  <controlfield tag="005">20130606164443.0</controlfield>
+  <controlfield tag="008">090115s1878    xx            000 i eng d</controlfield>
+  <datafield tag="033" ind1="0" ind2="0">
+    <subfield code="a">18781116</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">3922701</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">MS A.1.2 v.40, p.53B</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Hammond, Elisha Livermore,</subfield>
+    <subfield code="d">1799-1882.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Dear Friend, W.L. Garrison</subfield>
+    <subfield code="h">[manuscript].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Florence,</subfield>
+    <subfield code="c">Nov. 16, 1878.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (2 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Hammond, Elisha Livermore,</subfield>
+    <subfield code="d">1799-1882</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Garrison, William Lloyd,</subfield>
+    <subfield code="d">1805-1879.</subfield>
+    <subfield code="e">recipient</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">William Lloyd Garrison Correspondence (1823-1879)</subfield>
+  </datafield>
+  <datafield tag="989" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">BPL - Special Collections </subfield>
+    <subfield code="b">Manuscript - In Library Use Only</subfield>
+    <subfield code="h">MS A.1.2 v.40, p.53B</subfield>
+    <subfield code="k">RARE BKS</subfield>
+    <subfield code="o">9</subfield>
+    <subfield code="p">39999063869547</subfield>
+    <subfield code="r">In</subfield>
+    <subfield code="w">Manuscript</subfield>
+    <subfield code="y">1</subfield>
+    <subfield code="7">False</subfield>
+    <subfield code="9">0</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="b">MS A.1.2 v.40, p.53B</subfield>
+    <subfield code="c">0</subfield>
+    <subfield code="g">1</subfield>
+    <subfield code="h">1</subfield>
+    <subfield code="i">1</subfield>
+    <subfield code="j">1</subfield>
+    <subfield code="k">0</subfield>
+    <subfield code="x">MS A.1.2 v.40, p.53B</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,113 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01714ntm a2200337 a 4500</leader>
+  <controlfield tag="001">4661365</controlfield>
+  <controlfield tag="003">Pol</controlfield>
+  <controlfield tag="005">20150205162404.0</controlfield>
+  <controlfield tag="008">150203s1846    mau           000 i eng d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BRL</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">MS A.21.16 (51)</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Ide, Jacob,</subfield>
+    <subfield code="d">1785-1880.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Letter to] Rev. Amos A. Phelps</subfield>
+    <subfield code="h">[manuscript]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="0">
+    <subfield code="a">West Medway,</subfield>
+    <subfield code="c">May 14. 1846.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 leaf (4 p.) ;</subfield>
+    <subfield code="c">26 x 40 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Holograph, signed.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Title devised by cataloger.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On verso, the delivery address is &quot;Rev. Amos A. Phelps, No. 5. Spruce Street, New York.&quot; It was postmarked on May 15 in Boston.  </subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">In this letter to Amos A. Phelps, Jacob Ide discusses Charles Turner Torreýs funeral to be held in Park Street Church in Boston. He explains the circumstances in which he invited Mr. Lovejoy, instead of Phelps, to deliver a sermon at Charles T. Torreýs funeral. </subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Phelps, Amos A.</subfield>
+    <subfield code="q">(Amos Augustus),</subfield>
+    <subfield code="d">1805-1847</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Ide, Jacob,</subfield>
+    <subfield code="d">1785-1880</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="0">
+    <subfield code="a">Torrey, Charles T.</subfield>
+    <subfield code="q">(Charles Turner),</subfield>
+    <subfield code="d">1813-1846.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Antislavery movements</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">19th century.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Abolitionists</subfield>
+    <subfield code="z">United States</subfield>
+    <subfield code="y">19th century</subfield>
+    <subfield code="v">Correspondence.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Letters.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="0">
+    <subfield code="a">Manuscripts.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Phelps, Amos A.</subfield>
+    <subfield code="q">(Amos Augustus),</subfield>
+    <subfield code="d">1805-1847,</subfield>
+    <subfield code="e">recipient.</subfield>
+  </datafield>
+  <datafield tag="730" ind1="0" ind2=" ">
+    <subfield code="a">Amos A. Phelps Correspondence (1827-1847) (Boston Public Library)</subfield>
+    <subfield code="5">MB</subfield>
+  </datafield>
+  <datafield tag="989" ind1=" " ind2=" ">
+    <subfield code="a">shots: 4</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">BPL - Special Collections </subfield>
+    <subfield code="b">Manuscript - In Library Use Only</subfield>
+    <subfield code="h">MS A.21.16 (51)</subfield>
+    <subfield code="k">RARE BKS</subfield>
+    <subfield code="o">9</subfield>
+    <subfield code="p">39999032918243</subfield>
+    <subfield code="r">In</subfield>
+    <subfield code="w">Manuscript</subfield>
+    <subfield code="y">1</subfield>
+    <subfield code="7">False</subfield>
+    <subfield code="9">0</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="b">MS A.21.16 (51)</subfield>
+    <subfield code="c">0</subfield>
+    <subfield code="g">1</subfield>
+    <subfield code="h">1</subfield>
+    <subfield code="i">1</subfield>
+    <subfield code="j">1</subfield>
+    <subfield code="k">0</subfield>
+    <subfield code="x">MS A.21.16 (51)</subfield>
+    <subfield code="z">0</subfield>
+    <subfield code="!">2</subfield>
+  </datafield>
+</record>
