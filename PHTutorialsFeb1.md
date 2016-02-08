@@ -113,7 +113,7 @@ Hmm... it's really unclear how to do this, but I'm making some guesses and looki
 
 IT WORKED! in Command Prompt I typed:
 
-`python.exe "C:\Users\Thomas\Documents\School Work\Carleton\Winter 2016\HIST 5702\BPLSCASMARC.GetMARC.py"`
+`python.exe "C:\Users\Thomas\Documents\School Work\Carleton\Winter 2016\HIST 5702\BPLSCASMARC\GetMARC.py"`
 
 I stopped it, but I got at least 1 XML file.
 
